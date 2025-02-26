@@ -1,0 +1,21 @@
+{
+    "cSpell.words": [
+        "dateutil",
+        "jsonschema",
+        "plotly",
+        "pyarrow",
+        "pydeck",
+        "Pygments",
+        "Pympler",
+        "pytz",
+        "pywin",
+        "rpds",
+        "smmap",
+        "streamlit",
+        "toolz",
+        "tzdata",
+        "tzlocal",
+        "urllib",
+        "zipp"
+    ]
+}
