@@ -5,7 +5,7 @@ from datetime import datetime
 import plotly.graph_objects as go
 
 # Set page config at the very beginning
-st.set_page_config(page_title="Python Mastery: VIP Edition", page_icon="🐍", layout="wide")
+st.set_page_config(page_title="Python Mastery", page_icon="🐍", layout="wide")
 
 # Initialize session state for theme
 if "theme" not in st.session_state:
